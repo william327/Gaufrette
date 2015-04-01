@@ -3,7 +3,7 @@
 namespace Gaufrette\Adapter;
 
 use Gaufrette\Adapter;
-use \Net_SFTP;
+use Sinner\Phpseclib\Net\Net_SFTP;
 use Gaufrette\Filesystem;
 use Gaufrette\File;
 
